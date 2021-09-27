@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div class="container">
+  <img src="img/youtube.png" alt="Snow">
+  <button class="btn">Button</button>
+</div>
