@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="img/youtube.png" width="50" height="100">
+<img src="img/youtube.png" width="50" height="80">
 
