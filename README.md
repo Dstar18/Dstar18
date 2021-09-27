@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="container">
-  <img src="img/youtube.png" alt="Snow">
-  <button class="btn">Button</button>
-</div>
+<img src="img/youtube.jpg" width="50" height="100">
+
