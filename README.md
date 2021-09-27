@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="img/youtube.png" width="50" height="80">
+<img src="img/instagram.png" width="50" height="80">
+<img src="img/facebook.png" width="50" height="80">
 
